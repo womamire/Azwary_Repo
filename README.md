@@ -1,2 +1,2 @@
-# Azwary_Repo
-Azwary Shopping platform
+# Azwary_Ecommerce Platform
+Azwary Online Shopping platform
